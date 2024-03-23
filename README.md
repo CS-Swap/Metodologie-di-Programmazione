@@ -1,4 +1,4 @@
-# 💻 Metodologie di Programmazione - (⚒️ W.I.P.)
+# 💻 Metodologie di Programmazione
 Indice generale per navigare nelle risorse del corso **Metodologi di Programmazione 2023/2024 - Prof. Faralli**
 
 ## 🔹 Esami
