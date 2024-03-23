@@ -6,7 +6,7 @@ Raccolta di esercizi di esami passati.
 
 ## 🔹 Esercitazioni
 Raccolta di esercizi proposti a lezione e al laboratorio [PDF](https://github.com/CS-Swap/Metodologie-di-Programmazione/blob/main/Esercitazioni/Eserciziario_Metodologie_di_Programmazione.pdf)
-[Carica un esercizio](https://github.com/CS-Swap/Metodologie-di-Programmazione/issues/new?assignees=alem1105%2C+rimaout&labels=Esercitazione%2C+Sistemare+Index%2C+To-Do&projects=&template=esercizio-pdf.md&title=Esercizio+L.X.X)
+> [Carica un esercizio](https://github.com/CS-Swap/Metodologie-di-Programmazione/issues/new?assignees=alem1105%2C+rimaout&labels=Esercitazione%2C+Sistemare+Index%2C+To-Do&projects=&template=esercizio-pdf.md&title=Esercizio+L.X.X)
 
 |    |    |    |    |    |     |    |    |
 |----|----|----|----|----|-----|----|----|
@@ -20,3 +20,4 @@ Raccolta di esercizi proposti a lezione e al laboratorio [PDF](https://github.co
 
 ## 🔹 Materiale
 Materiale caricato da studenti
+> [Carica materiale](https://github.com/CS-Swap/Metodologie-di-Programmazione/issues/new?assignees=alem1105%2C+rimaout&labels=Materiale%2C+Sistemare+Index&projects=&template=materiale.md&title=)
