@@ -17,6 +17,5 @@ Raccolta di esercizi proposti a lezione e al laboratorio
 | [L.5.4](/../../issues/63)  | [L.5.5](/../../issues/64)  | [L.5.6](/../../issues/65)  | [L.5.6.2](/../../issues/66)  | [L.5.7](/../../issues/67)  | [L.7.1](/../../issues/68)  | [L.7.2](/../../issues/69)  | [L.7.3](/../../issues/70)  |
 | [L.7.4](/../../issues/71)  | [L.7.5](/../../issues/72)  | [L.7.6](/../../issues/73)  | [L.7.8](/../../issues/74)  |
 
-
 ## 🔹 Materiale
 Materiale caricato da studenti
