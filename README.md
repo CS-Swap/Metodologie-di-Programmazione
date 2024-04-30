@@ -15,7 +15,7 @@ Raccolta di esercizi proposti a lezione e a laboratorio [PDF](https://github.com
 | [L.3.18](/../../issues/46) | [L.3.19](/../../issues/47)  | [L.3.20](/../../issues/48)  | [L.3.21](/../../issues/49)  | [L.3.22](/../../issues/50)  | [L.3.23](/../../issues/51)  | [L.3.24](/../../issues/52)  | [L.3.25](/../../issues/53)  |
 | [L.3.26](/../../issues/54) | [L.3.27](/../../issues/55)  | [L.4.1](/../../issues/57)  | [L.4.2](/../../issues/58)  | [L.4.3](/../../issues/59)  | [L.5.1](/../../issues/60)  | [L.5.2](/../../issues/61)  | [L.5.3](/../../issues/62)  |
 | [L.5.4](/../../issues/63)  | [L.5.5](/../../issues/64)  | [L.5.6](/../../issues/65)  | [L.5.6.2](/../../issues/66)  | [L.5.7](/../../issues/67)  | [L.7.1](/../../issues/68)  | [L.7.2](/../../issues/69)  | [L.7.3](/../../issues/70)  |
-| [L.7.4](/../../issues/71)  | [L.7.5](/../../issues/72)  | [L.7.6](/../../issues/73)  | [L.7.8](/../../issues/74)  |
+| [L.7.4](/../../issues/71)  | [L.7.5](/../../issues/72)  | [L.7.6](/../../issues/73)  | [L.7.7](/../../issues/74)  | [L.7.8](/../../issues/75)  | [L.8.1](/../../issues/76)  |
 
 ## 🔹 Materiale
 Materiale caricato da studenti
