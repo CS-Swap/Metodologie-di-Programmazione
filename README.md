@@ -2,7 +2,7 @@
 Indice generale per navigare nelle risorse del corso **Metodologi di Programmazione 2023/2024 - Prof. Faralli**
 
 ## 🔹 Esami
-Raccolta di esercizi di esami passati.
+Raccolta di esercizi di esami passati
 
 ## 🔹 Esercitazioni
 Raccolta di esercizi proposti a lezione e a laboratorio [PDF](https://github.com/CS-Swap/Metodologie-di-Programmazione/blob/main/Esercitazioni/Eserciziario_Metodologie_di_Programmazione.pdf)
