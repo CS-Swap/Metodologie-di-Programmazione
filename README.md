@@ -4,6 +4,9 @@ Indice generale per navigare nelle risorse del corso **Metodologi di Programmazi
 ## 🔹 Esami
 Raccolta di esercizi di esami passati
 
+## 🔹 Orale
+[Informazioni e domande](https://github.com/CS-Swap/Metodologie-di-Programmazione/blob/main/Esercitazioni/Eserciziario_Metodologie_di_Programmazione.pdf](https://github.com/CS-Swap/Metodologie-di-Programmazione/issues/80))
+
 ## 🔹 Esercitazioni
 Raccolta di esercizi proposti a lezione e a laboratorio [PDF](https://github.com/CS-Swap/Metodologie-di-Programmazione/blob/main/Esercitazioni/Eserciziario_Metodologie_di_Programmazione.pdf)
 
